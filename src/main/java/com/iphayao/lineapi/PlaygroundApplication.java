@@ -1,13 +1,13 @@
-package com.iphayao.lineapiplayground;
+package com.iphayao.lineapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LineApiPlaygroundApplication {
+public class PlaygroundApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LineApiPlaygroundApplication.class, args);
+		SpringApplication.run(PlaygroundApplication.class, args);
 	}
 
 }
